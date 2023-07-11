@@ -1,0 +1,17 @@
+.bg{
+background-image: url(images/bg1.jpg);
+min-height: 100%;
+position: relative;
+background-position: revert;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.container{
+    padding:absolute;
+}
+.card-header{
+    background-color: forestgreen;
+}
+.card-body{
+    background-image: url(images/bg2.jpg);
+}
